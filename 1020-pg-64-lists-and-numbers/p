@@ -1,0 +1,15 @@
+print(firstThree)
+print(num[:3])
+
+print(mid)
+print(num[1:4])
+
+print(firstThree)
+print(num[2:5])
+
+num.append('five')
+print(num)
+
+print(letMesg)
+print(let)
+
